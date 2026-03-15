@@ -1,4 +1,7 @@
 # Jake Rammell
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/97262230?v=4" alt="Jake Rammell Profile Picture" width="200" height="200">
+</p>
 
 Hello, GitHub! 👋
 
@@ -12,6 +15,13 @@ I'm Jake Rammell, a Software Engineering student at Brigham Young University-Ida
 - I enjoy building tools, experimenting with automation, and designing systems that combine creativity with technical problem-solving.
 - Outside of coding, I design tabletop RPG systems and build digital tools to support them.
 - Ask me about software engineering, AI tools for development, system design, or creative tech projects.
+
+## Projects
+Here are some of my independent projects that I have created!
+- [Tanks](https://github.com/CapGrey/game-design-module)
+- [Learning Rust](https://github.com/CapGrey/cse-310-rust-module)
+- [Go Fish](https://github.com/CapGrey/CSE_310-kotlin-module)
+- [Learning Java](https://github.com/CapGrey/CSE-310-java-module)
 
 ## Technologies and Tools
 
