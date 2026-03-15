@@ -1,5 +1,5 @@
 # Jake Rammell
-<p align="center">
+<p align="left">
   <img src="https://avatars.githubusercontent.com/u/97262230?v=4" alt="Jake Rammell Profile Picture" width="200" height="200">
 </p>
 
