@@ -9,6 +9,7 @@ I'm Jake Rammell, a Software Engineering student at Brigham Young University-Ida
 
 ## About Me
 
+- I am currently employed by DataAnnotation as an AI proofreading trainer!
 - I'm currently learning more about AI-assisted development, modern web technologies, and building real-world software projects.
 - I'm currently working on my C# certification with Microsoft.
 - I’m pursuing a Bachelor’s degree in Software Engineering and actively seeking Software Engineering internship opportunities.
